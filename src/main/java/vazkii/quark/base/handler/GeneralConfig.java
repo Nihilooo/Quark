@@ -58,7 +58,9 @@ public class GeneralConfig {
 			"com.resourcefulbees.resourcefulbees.client.gui.screen.CentrifugeScreen",
 			"com.resourcefulbees.resourcefulbees.client.gui.screen.MechanicalCentrifugeScreen",
 			"com.resourcefulbees.resourcefulbees.client.gui.screen.CentrifugeMultiblockScreen",
-			"com.refinedmods.refinedstorage.screen.FilterScreen"
+			"com.refinedmods.refinedstorage.screen.FilterScreen",
+			"de.maxhenkel.corpse.gui.CorpseInventoryScreen",
+			"de.maxhenkel.corpse.gui.CorpseAdditionalScreen"
 			);
 
 	@Config(description = "Set to true to make the quark big worldgen features such as stone clusters or underground biomes generate as spheres rather than unique shapes. It's faster, but won't look as cool")
